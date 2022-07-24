@@ -1,0 +1,2 @@
+# configmanager
+configmanager for csgo
